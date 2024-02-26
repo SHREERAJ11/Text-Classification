@@ -11,6 +11,7 @@ The IMDb dataset consists of movie reviews labeled as positive or negative senti
 
 
     Clone this repository to your local machine:
+    git clone https://github.com/shreeraj11/text-classification-tensorflow.git
 
   git clone https://github.com/shreeraj11/text-classification-tensorflow.git
 
